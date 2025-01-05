@@ -29,7 +29,7 @@ Saya seorang **Junior Software Engineer** dengan minat besar dalam pengembangan 
 
 ### 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsernameAnda&show_icons=true&theme=radical" alt="Statistik GitHub Saya">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizky04&show_icons=true&theme=radical" alt="Statistik GitHub Saya">
 </p>
 
 ---
