@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda]! 👋
+# Halo, Saya Muhammad Rizky Amin! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
@@ -7,14 +7,13 @@
 Saya seorang **Junior Software Engineer** dengan minat besar dalam pengembangan perangkat lunak. Saya gemar belajar teknologi baru dan menyelesaikan masalah kompleks. Saat ini saya fokus di:
 
 - 🌐 Pengembangan Web (Frontend & Backend)
-- 🛠️ Framework seperti Laravel, React, atau Vue.js
-- 📊 Analisis Data dengan Python
+- 🛠️ Framework seperti Laravel, inertia, expres js, React, flutter atau next js
 
 ---
 
 ### 🔗 Sosial Media & Kontak
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/username)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:emailanda@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/muhammad-rizky-amin-36aab0183)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:aminrizky94@gmail.com)
 
 ---
 
